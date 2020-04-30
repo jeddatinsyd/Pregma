@@ -1,6 +1,6 @@
-# first_app
+# Pregma
 
-A new Flutter project.
+Mobile Enrollment App
 
 ## Getting Started
 
